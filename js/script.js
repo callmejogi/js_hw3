@@ -1,5 +1,5 @@
 let name = "Джон";
-let admin = `${name}`;
+let admin = "Джон";
 alert(admin);
 
 const planetEarth = "Earth";
